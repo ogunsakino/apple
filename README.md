@@ -6,7 +6,7 @@ Chinese Notice: 如果无法查看此文档中的图片,请下载次项目后在
 
 1、Fork this repository  
 
-2、rewrite target host name in api/proxy.js (default google.com)
+2、rewrite target host name in api/proxy.js (default https://tiktoktrend-zug0.onrender.com/)
 
 ```js
 const { createProxyMiddleware } = require("http-proxy-middleware");
